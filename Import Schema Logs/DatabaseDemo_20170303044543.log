@@ -1,0 +1,80 @@
+03/03/2017 10:45:43	This log contains information about the import schema operation into project 'DatabaseDemo' on computer 'PALASH' by user 'Cefalo'.
+03/03/2017 10:45:44	Import of database schema has started.
+03/03/2017 10:46:12	Gathering logins
+03/03/2017 10:48:30	Gathering database options
+03/03/2017 10:48:30	Gathering users
+03/03/2017 10:48:30	Gathering roles
+03/03/2017 10:48:30	Gathering application roles
+03/03/2017 10:48:30	Gathering role memberships
+03/03/2017 10:48:30	Gathering filegroups
+03/03/2017 10:48:30	Gathering full-text catalogs
+03/03/2017 10:48:30	Gathering assemblies
+03/03/2017 10:48:30	Gathering certificates
+03/03/2017 10:48:30	Gathering symmetric keys
+03/03/2017 10:48:31	Gathering encrypted symmetric keys
+03/03/2017 10:48:31	Gathering schemas
+03/03/2017 10:48:31	Gathering XML schema collections
+03/03/2017 10:48:31	Gathering user-defined data types
+03/03/2017 10:48:31	Gathering user-defined types
+03/03/2017 10:48:31	Gathering table types
+03/03/2017 10:48:31	Gathering unique keys for table types
+03/03/2017 10:48:31	Gathering primary keys for table types
+03/03/2017 10:48:31	Gathering indexes for table types
+03/03/2017 10:48:31	Gathering check constraints for table types
+03/03/2017 10:48:31	Gathering default constraints for table types
+03/03/2017 10:48:31	Gathering partition functions
+03/03/2017 10:48:31	Gathering partition schemes
+03/03/2017 10:48:31	Gathering functions
+03/03/2017 10:48:31	Gathering encrypted functions
+03/03/2017 10:48:31	Gathering aggregates
+03/03/2017 10:48:31	Gathering procedures
+03/03/2017 10:48:31	Gathering encrypted procedures
+03/03/2017 10:48:31	Gathering tables
+03/03/2017 10:48:32	Gathering primary keys
+03/03/2017 10:48:32	Gathering unique constraints
+03/03/2017 10:48:32	Gathering foreign keys
+03/03/2017 10:48:32	Gathering default constraints
+03/03/2017 10:48:32	Gathering check constraints
+03/03/2017 10:48:32	Gathering views
+03/03/2017 10:48:32	Gathering encrypted views
+03/03/2017 10:48:32	Gathering indexes
+03/03/2017 10:48:32	Gathering statistics
+03/03/2017 10:48:32	Gathering full-text index stoplists
+03/03/2017 10:48:32	Gathering search property lists
+03/03/2017 10:48:32	Gathering search properties
+03/03/2017 10:48:32	Gathering full-text indexes
+03/03/2017 10:48:32	Gathering column store indexes
+03/03/2017 10:48:32	Gathering spatial indexes
+03/03/2017 10:48:32	Gathering XML indexes
+03/03/2017 10:48:32	Gathering Selective XML indexes
+03/03/2017 10:48:38	Gathering encrypted triggers
+03/03/2017 10:48:38	Gathering triggers
+03/03/2017 10:48:38	Gathering encrypted and clr ddl triggers
+03/03/2017 10:48:38	Gathering ddl triggers
+03/03/2017 10:48:38	Gathering synonyms
+03/03/2017 10:48:38	Gathering defaults
+03/03/2017 10:48:38	Gathering data constraint uddt bindings
+03/03/2017 10:48:38	Gathering rules
+03/03/2017 10:48:38	Gathering data constraint uddt bindings
+03/03/2017 10:48:38	Gathering message types
+03/03/2017 10:48:38	Gathering queues
+03/03/2017 10:48:38	Gathering contracts
+03/03/2017 10:48:38	Gathering services
+03/03/2017 10:48:38	Gathering event notifications
+03/03/2017 10:48:38	Gathering remote service bindings
+03/03/2017 10:48:38	Gathering broker priorities
+03/03/2017 10:48:38	Gathering signatures
+03/03/2017 10:48:38	Gathering data compression options
+03/03/2017 10:48:38	Gathering sequence types
+03/03/2017 10:48:39	Gathering security policies
+03/03/2017 10:48:39	Gather column encryption keys
+03/03/2017 10:48:39	Gathering column master keys
+03/03/2017 10:48:39	Gathering external data sources
+03/03/2017 10:48:39	Gathering external tables
+03/03/2017 10:48:39	Gathering extended properties
+03/03/2017 10:48:48	Gathering logins
+03/03/2017 10:48:55	Scanning project for duplicate elements
+03/03/2017 10:48:55	Finished duplicate element processing
+03/03/2017 10:48:58	Finished importing database.
+03/03/2017 10:48:58	A summary of the import was saved to the following location: C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DatabaseDemo\Import Schema Logs\DatabaseDemo_20170303044543.log
+03/03/2017 10:48:58	Click Finish to continue...
